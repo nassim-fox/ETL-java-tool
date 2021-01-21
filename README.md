@@ -2,3 +2,5 @@
 
 
 JAVA code to populate database from csv files after processing the content
+
+requires postgresql driver 
